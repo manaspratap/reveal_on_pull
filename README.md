@@ -1,6 +1,35 @@
-reveal_on_pull
+<p align="center">
+  <a href="https://github.com/manaspratap/reveal_on_pull/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/manaspratap/reveal_on_pull.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/manaspratap/reveal_on_pull/network/members">
+    <img alt="Forks" src="https://img.shields.io/github/forks/manaspratap/reveal_on_pull.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/manaspratap/reveal_on_pull/graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/manaspratap/reveal_on_pull.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/manaspratap/reveal_on_pull/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/manaspratap/reveal_on_pull.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/manaspratap/reveal_on_pull/blob/master/LICENSE.txt">
+    <img alt="MIT License" src="https://img.shields.io/github/license/manaspratap/reveal_on_pull.svg?style=for-the-badge"/>
+  </a>
+  <br />
+   <a href="https://www.buymeacoffee.com/manaspratap">
+    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+   <a href="https://www.linkedin.com/in/manaspratapthakur">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+   <a href="https://manaspratap.com">
+    <img alt="My Website" src="https://img.shields.io/badge/My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
-reveal_on_pull is a Flutter package that allows you to reveal a widget when the user pulls down the screen, similar to a pull-to-refresh feature but designed to reveal hidden content instead. 🎉
+<br />
+<p align="center">
+  <h1 align="center">RevealOnPull</h1>
+</p>
 
 📖 Table of Contents
 
