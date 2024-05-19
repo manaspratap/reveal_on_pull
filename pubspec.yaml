@@ -2,7 +2,7 @@ name: reveal_on_pull
 
 description: A package that wraps a scrollable widget and reveals a widget on a pull action.
 
-version: 1.0.0
+version: 1.0.1
 
 homepage: https://github.com/manaspratap/reveal_on_pull/blob/main/README.md
 
