@@ -33,12 +33,12 @@
 
 📖 Table of Contents
 
-Features
-Installation
-Usage
-Example
-Contributing
-License
+- Features
+- Installation
+- Usage
+- Example
+- Contributing
+- License
 
 ✨ Features
 
