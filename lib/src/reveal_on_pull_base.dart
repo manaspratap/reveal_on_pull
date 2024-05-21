@@ -53,6 +53,9 @@ class _RevealOnPullState extends State<RevealOnPull> {
           scrollOffset = 0;
         }
         isAnimationActive = false;
+        // pause scrolling down when widgetToReveal is visible
+        // to synchronize scroll
+        widget.scrollController.jumpTo(0);
         setState(() {});
       }
     }
@@ -100,12 +103,7 @@ class _RevealOnPullState extends State<RevealOnPull> {
             bottom: 0,
             left: 0,
             right: 0,
-            child: AbsorbPointer(
-              // absorbing to synchronize scroll during close
-              key: ValueKey(scrollOffset > 0),
-              absorbing: scrollOffset > 0,
-              child: widget.scrollableChild,
-            ),
+            child: widget.scrollableChild,
           ),
         ],
       ),

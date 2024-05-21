@@ -99,7 +99,7 @@ RevealOnPull(
 
 Check out the example directory for a complete sample app using RevealOnPull.
 
-## 📺 Demo Video
+📺 Demo
 
 ![reveal_on_pull Demo](assets/screen_recording.gif)
 
@@ -108,6 +108,7 @@ Check out the example directory for a complete sample app using RevealOnPull.
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 
 Steps to Contribute:
+
 - Fork the repository.
 - Create a new branch: git checkout -b my-feature-branch.
 - Make your changes and commit: git commit -m 'Add some feature'.
