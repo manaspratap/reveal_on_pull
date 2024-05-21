@@ -102,6 +102,7 @@ class _RevealOnPullState extends State<RevealOnPull> {
             right: 0,
             child: AbsorbPointer(
               // absorbing to synchronize scroll during close
+              key: ValueKey(scrollOffset > 0),
               absorbing: scrollOffset > 0,
               child: widget.scrollableChild,
             ),
